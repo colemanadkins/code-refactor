@@ -11,4 +11,12 @@ This is achieved through several means:
 
  As you will see from the screenshots below, the appearance of the website has not been affected by these changes:
 
+ ![alt text](https://github.com/colemanadkins/code-refactor/blob/main/assets/images/Screenshot%201.PNG)
+ ![alt text](https://github.com/colemanadkins/code-refactor/blob/main/assets/images/Screenshot%202.PNG)
+
+ You can also click [here](https://colemanadkins.github.io/code-refactor/) to see the functionality of the website has not changed. 
+
+ 
+
+
 
